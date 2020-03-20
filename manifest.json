@@ -1,0 +1,38 @@
+{
+  "name": "decomb",
+  "short_name": "decomb",
+  "start_url": "https://www.decomb.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Electronics, Electro & Agrotechnology",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-eSqdhZJZ2I4/XnTqtf6XygI/AAAAAAAABho/3LaPswqNx3c57m9wO84CFsGPcGofTgDiwCLcBGAsYHQ/s48/favicon%2Bdecomb%2Bicon%2Bpng.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eSqdhZJZ2I4/XnTqtf6XygI/AAAAAAAABho/3LaPswqNx3c57m9wO84CFsGPcGofTgDiwCLcBGAsYHQ/s72/favicon%2Bdecomb%2Bicon%2Bpng.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eSqdhZJZ2I4/XnTqtf6XygI/AAAAAAAABho/3LaPswqNx3c57m9wO84CFsGPcGofTgDiwCLcBGAsYHQ/s96/favicon%2Bdecomb%2Bicon%2Bpng.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eSqdhZJZ2I4/XnTqtf6XygI/AAAAAAAABho/3LaPswqNx3c57m9wO84CFsGPcGofTgDiwCLcBGAsYHQ/s144/favicon%2Bdecomb%2Bicon%2Bpng.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eSqdhZJZ2I4/XnTqtf6XygI/AAAAAAAABho/3LaPswqNx3c57m9wO84CFsGPcGofTgDiwCLcBGAsYHQ/s168/favicon%2Bdecomb%2Bicon%2Bpng.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eSqdhZJZ2I4/XnTqtf6XygI/AAAAAAAABho/3LaPswqNx3c57m9wO84CFsGPcGofTgDiwCLcBGAsYHQ/s192/favicon%2Bdecomb%2Bicon%2Bpng.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eSqdhZJZ2I4/XnTqtf6XygI/AAAAAAAABho/3LaPswqNx3c57m9wO84CFsGPcGofTgDiwCLcBGAsYHQ/s512/favicon%2Bdecomb%2Bicon%2Bpng.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
